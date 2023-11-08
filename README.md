@@ -6,4 +6,4 @@ R script is found in this repository along with normalized data csv file and met
 
 Make sure that both files are downloaded into your working directory when running R script.
 
-Class PowerPoint has also been uploaded here.
+Class PowerPoint with breakdown of analysis is also found in this repository.
